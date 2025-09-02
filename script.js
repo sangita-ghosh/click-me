@@ -16,6 +16,10 @@ button.addEventListener('click', (e)=>{
     body.append(heading1)
     body.append(heading2)
     body.append(heading3)
+
+
+console.log("hello");
+
     body.append(heading3)
     body.append(heading4)
     body.style.backgroundColor="#212121"
